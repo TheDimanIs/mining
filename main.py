@@ -22,7 +22,7 @@ def current_time():
 
 username = 'Mordsdima'
 
-UseLowerDiff = True
+UseLowerDiff = False
 
 def fetch_pools():
     while True:
